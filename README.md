@@ -15,7 +15,7 @@ This project implements:
 - Bisection method,
 - Newton's method on a system of nonlinear equations.
 
-> Check the [project notebook](https://github.com/MiguelHenri/SME0104/project1.ipynb) for more details.
+> Check the [project notebook](https://github.com/MiguelHenri/SME0104/blob/main/project1.ipynb) for more details.
 
 ## Project 2
 
@@ -27,5 +27,5 @@ This project implements:
 - Chebyshev Nodes for polynomial interpolation,
 - Least Squares method (with data linearization).
 
-> Check the [project notebook](https://github.com/MiguelHenri/SME0104/project2.ipynb) for more details.
+> Check the [project notebook](https://github.com/MiguelHenri/SME0104/blob/main/project2.ipynb) for more details.
 
